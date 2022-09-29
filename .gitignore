@@ -1,0 +1,11 @@
+#| Folders |#
+
+.github
+node_modules
+MysticSession
+tmp
+
+#| Files |#
+
+package-lock.json
+database.json
